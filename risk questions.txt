@@ -1,0 +1,18 @@
+\item Have top software and customer managers formally committed to support the project?
+\item Yes,the top software company manager has approved our idea and is fully committed to support our project.
+\item Are end-users enthusiastically committed to the project and the system/product to be built?
+\item The end users in our case being the vendors are happy about the change and betterment we will bring in their bussiness with our platform.
+\item Are requirements fully understood by the software engineering team and its customers?
+\item The requirements are understood completely and are taken care of by the software engineering team and its customers.
+\item Have customers been involved fully in the definition of requirements?
+\item The customera are involved and are supporting us for the development of the platform.
+\item Do end-users have realistic expectations?
+\item Yes the users do have realistic expectations as our platform will bring a betterment and improve their means of bussiness.
+\item Does the software engineering team have the right mix of skills?
+\item The software engineering team is the finest we can meet and are at par with their skills.
+\item Are project requirements stable?
+\item The project requirements are stable and simple.
+\item Is the number of people on the project team adequate to do the job?
+\item Yes the number of people on this project are adequate.
+\item Do all customer/user constituencies agree on the importance of the project and on the requirements for the system/product to be built?
+\item The customers agree with our idea and are eager to support us in our endeavour.

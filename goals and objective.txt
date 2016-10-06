@@ -1,0 +1,24 @@
+Project Goal :Presently operating the vending machines is not user-friendly and it is observed to be time consuming as well.Our project goal is to increase the scope and quality of the vending machine services provided to the people. 
+
+Project Objective 1:
+People use coins or paper money while operating the vending machines due to which there arises a problem when the user does not seem to have exact change with him.
+Performance Measure :
+Online (cashless) payments are made available for the users for easy purchase of items.
+
+Project Objective 2:
+The vendors are not aware about the stock required in the vending machines when excess usage of the products occur.
+Performance Measure :
+Vendors are well informed about the stock management of the machine and are also aware of the customers past transactions.
+
+Project Objective 3 :
+Finding a vending machine in new locations everytime becomes difficult for people.
+Performance Measure :
+The users are notified about the presence of the vending machine available in their current location using the Web Bluetooth API.
+
+Online payment for vending machines made possible and stock record maintained on the cloud for dynamically updating the vendor. Modules of the platform will include a firmware where hardware is used,cloud communication and a frontend available for users as well as for vendors respectively.
+The software entities used are Web Bluetooth API,Linux,Eclipse(mars).
+Web bluetooth is the technology in which a bluetooth enabled device is used to flash url which can notify people about a thing in the area ,This is a way towards making things speak .
+This device is placed at the vending machine and configured to flash a particular url using Seripheral Interface from the controller .
+The controller is wifi enabled ,so cloud communication is done using aws_iot js sdk on the device .
+The cloud communication also happens at the user side for  payment and then the cloud notifies the vending machine that payment is done and vending machine disposes the product.
+
