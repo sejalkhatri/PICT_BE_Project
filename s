@@ -271,20 +271,15 @@ X = Input set\\
 Y = Output set\\
 Input:(Physical address, user’s choice)	\\ 
 Output:(Product requested , suggestions)\\ 
+Identify data structures, classes, divide and conquer strategies to exploit distributed/parallel/concurrent processing, constraints. \\
 Functions : Fme + Ffriend.\\
 Fme = Main functions.\\
 Fme = (fin , fout,initiate,detect,connect).\\
-Fin : {Faddress , Fchioce}\\
-Fout:{Fdispose , Fsuggest}\\
-Finitiate :{Fconnectwifi ,Fflashurl,Fconnectaws}\\
-Fdetect:{Fdetectwifi}\\
-Fconnect:{Fcw ,Fcaws}\\
-Fcw :refresh connection wifi\\
-Fcaws :refresh connection AWS\\
 Ffriend = inbuilt functions.\\
 Ffriend = (fproc , fcloud).\\
-Non Deterministic Data : Physical address of user.\\
-Deterministic Data :Items(as flashed on users device)\\
+Mathematical formulation if possible\\
+Non Deterministic Data :Single Physical address.\\
+Deterministic Data :Valid input.\\
 Success Conditions:Valid input( i.e valid user choice) is given and the desired result is obtained successfully and also proper internet availability.\\
 Failure Conditions: Invalid input( i.e invalid user choice)  given and desired result not obtained also internet availability not present.\\
 
@@ -465,7 +460,8 @@ Vending machines in airports,malls and offices.
 \item Beacons.
 \item Vending machines.
 \item Knit board(wifi-enabled micro controller).
-\item Mobile phone.(Android or iOs)
+\item Mobile phone.
+\item LCD display screen.
 \end{enumerate}
 
 
@@ -473,11 +469,10 @@ Vending machines in airports,malls and offices.
 Platform : Amazon Web Services.
 \begin{enumerate}
 \item Operating System:Linux(Ubuntu16.04). 
-\item IDE: Eclipse (Mars).(3.0)
+\item IDE: Eclipse (Mars).
 \item Programming Language : C , javascript
 \item API: Web Bluetooth(4.0)
 \item AWSIOT Device SDK JS (Version 1.0.12)
-\item Google chrome Browser (version :53.0.2785.143)
 \end{enumerate}
 
 
@@ -797,19 +792,9 @@ A description of each software function is presented. A processing narrative for
 The Activity diagram represents the steps taken.
 
 \subsection{Non Functional Requirements:}
-Interface Requirements:\\
-SPI -Serial Peripheral Interface used to connect Stepper motor driver  to Knit board.\\
-Requirement : The driver must support SPI interface and also the board used should support SPI interface .\\
-Performance Requirements:\\
-Proper Functioning Wifi module to make most of the internet connectivity.\\
-Faster AWS responce for quick disposal of products as user would most likely be in hurry in most of the cases\\
-Software quality attributes :\\
- Reliability : Complete Reliability on the internet access in the area \\
- Modifiability :Modifiability is supported as the Beacon url is modifiable according to the vendor. \\
- Performance : Performace is measured by day to day testing and respective changes are made to enhance the performance \\
- Security : For security the protocols used are mqtt and https for data transfer.\\
- Testability :Various tests will run at the machine side and updates will be sent on the cloud and respective measures will be taken  \\
- Usability : The will be self adaptable using the testing responce and performance checks,also user adaptability takes place as the data recorded by the user is analysed and respective approach takes place. \\
+Interface Requirements\\
+Performance Requirements\\
+Software quality attributes such as availability [ related to Reliability], modifiability [includes portability, reusability, scalability] , performance, security, testability and usability[includes self adaptability and user adaptability] \\
 
 \subsection{State Diagram:}	
   State Transition Diagram\\
@@ -958,3 +943,4 @@ Plagiarism report
 
 
 \end{document}
+
