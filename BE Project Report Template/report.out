@@ -50,33 +50,27 @@
 \BOOKMARK [2][-]{subsection.6.1.2}{Overview of responsibilities of Developer}{section.6.1}% 50
 \BOOKMARK [1][-]{section.6.2}{Usage Scenario}{chapter.6}% 51
 \BOOKMARK [2][-]{subsection.6.2.1}{User profiles}{section.6.2}% 52
-\BOOKMARK [2][-]{subsection.6.2.2}{Use-cases}{section.6.2}% 53
-\BOOKMARK [2][-]{subsection.6.2.3}{Use Case View}{section.6.2}% 54
-\BOOKMARK [1][-]{section.6.3}{Data Model and Description}{chapter.6}% 55
-\BOOKMARK [2][-]{subsection.6.3.1}{Data Description}{section.6.3}% 56
-\BOOKMARK [2][-]{subsection.6.3.2}{Data objects and Relationships}{section.6.3}% 57
-\BOOKMARK [1][-]{section.6.4}{Functional Model and Description}{chapter.6}% 58
-\BOOKMARK [2][-]{subsection.6.4.1}{Data Flow Diagram}{section.6.4}% 59
-\BOOKMARK [2][-]{subsection.6.4.2}{Description of functions}{section.6.4}% 60
-\BOOKMARK [2][-]{subsection.6.4.3}{Activity Diagram:}{section.6.4}% 61
-\BOOKMARK [2][-]{subsection.6.4.4}{Non Functional Requirements:}{section.6.4}% 62
-\BOOKMARK [2][-]{subsection.6.4.5}{State Diagram:}{section.6.4}% 63
-\BOOKMARK [2][-]{subsection.6.4.6}{Design Constraints}{section.6.4}% 64
-\BOOKMARK [2][-]{subsection.6.4.7}{Software Interface Description}{section.6.4}% 65
-\BOOKMARK [0][-]{chapter.7}{Detailed Design Document using Appendix A and B}{}% 66
-\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 67
-\BOOKMARK [1][-]{section.7.2}{Architectural Design}{chapter.7}% 68
-\BOOKMARK [1][-]{section.7.3}{Data design \(using Appendices A and B\)}{chapter.7}% 69
-\BOOKMARK [2][-]{subsection.7.3.1}{Internal software data structure}{section.7.3}% 70
-\BOOKMARK [2][-]{subsection.7.3.2}{Global data structure}{section.7.3}% 71
-\BOOKMARK [2][-]{subsection.7.3.3}{Temporary data structure}{section.7.3}% 72
-\BOOKMARK [2][-]{subsection.7.3.4}{Database description}{section.7.3}% 73
-\BOOKMARK [1][-]{section.7.4}{Compoent Design}{chapter.7}% 74
-\BOOKMARK [2][-]{subsection.7.4.1}{Class Diagram}{section.7.4}% 75
-\BOOKMARK [0][-]{chapter.8}{References}{}% 76
-\BOOKMARK [1][-]{section.1..1}{Summary and Conclusion}{chapter.8}% 77
-\BOOKMARK [0][-]{Annexure.1.A}{Annexure Laboratory assignments on Project Analysis of Algorithmic Design}{}% 78
-\BOOKMARK [0][-]{Annexure.1.B}{Annexure Laboratory assignments on Project Quality and Reliability Testing of Project Design}{}% 79
-\BOOKMARK [0][-]{Annexure.1.C}{Annexure Project Planner}{}% 80
-\BOOKMARK [0][-]{Annexure.1.D}{Annexure Reviewers Comments of Paper Submitted}{}% 81
-\BOOKMARK [0][-]{Annexure.1.E}{Annexure Plagiarism Report}{}% 82
+\BOOKMARK [2][-]{subsection.6.2.2}{Use Case View}{section.6.2}% 53
+\BOOKMARK [1][-]{section.6.3}{Data Model and Description}{chapter.6}% 54
+\BOOKMARK [2][-]{subsection.6.3.1}{Data objects and Relationships}{section.6.3}% 55
+\BOOKMARK [1][-]{section.6.4}{Functional Model and Description}{chapter.6}% 56
+\BOOKMARK [2][-]{subsection.6.4.1}{Data Flow Diagram}{section.6.4}% 57
+\BOOKMARK [2][-]{subsection.6.4.2}{Description of functions}{section.6.4}% 58
+\BOOKMARK [2][-]{subsection.6.4.3}{Activity Diagram:}{section.6.4}% 59
+\BOOKMARK [2][-]{subsection.6.4.4}{Non Functional Requirements:}{section.6.4}% 60
+\BOOKMARK [2][-]{subsection.6.4.5}{State Diagram:}{section.6.4}% 61
+\BOOKMARK [2][-]{subsection.6.4.6}{Design Constraints}{section.6.4}% 62
+\BOOKMARK [2][-]{subsection.6.4.7}{Software Interface Description}{section.6.4}% 63
+\BOOKMARK [0][-]{chapter.7}{Detailed Design Document using Appendix A and B}{}% 64
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 65
+\BOOKMARK [1][-]{section.7.2}{Architectural Design}{chapter.7}% 66
+\BOOKMARK [1][-]{section.7.3}{Data design }{chapter.7}% 67
+\BOOKMARK [1][-]{section.7.4}{Compoent Design}{chapter.7}% 68
+\BOOKMARK [2][-]{subsection.7.4.1}{Class Diagram}{section.7.4}% 69
+\BOOKMARK [1][-]{section.1..1}{References}{chapter.7}% 70
+\BOOKMARK [1][-]{section.1..2}{Summary and Conclusion}{chapter.7}% 71
+\BOOKMARK [0][-]{Annexure.1.A}{Annexure Laboratory assignments on Project Analysis of Algorithmic Design}{}% 72
+\BOOKMARK [0][-]{Annexure.1.B}{Annexure Laboratory assignments on Project Quality and Reliability Testing of Project Design}{}% 73
+\BOOKMARK [0][-]{Annexure.1.C}{Annexure Project Planner}{}% 74
+\BOOKMARK [0][-]{Annexure.1.D}{Annexure Reviewers Comments of Paper Submitted}{}% 75
+\BOOKMARK [0][-]{Annexure.1.E}{Annexure Plagiarism Report}{}% 76
