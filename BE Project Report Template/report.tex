@@ -150,7 +150,7 @@ on {\bfseries \fontsize{12}{12} \selectfont `Physical Web with Vending machine'}
 \vspace*{1.5\baselineskip}
 
  \textit{We would like to take this opportunity to thank our internal guide
- \textbf{Prof. A.R.Deshpande} for giving us all the help and guidance we needed. We are really grateful to them for their kind support. Their valuable suggestions were very helpful.} \vspace*{1.5\baselineskip}
+ \textbf{Prof. A.R.Deshpande} for giving us all the help and guidance we needed. We are really grateful to her for her kind support. Their valuable suggestions were very helpful.} \vspace*{1.5\baselineskip}
 
  \textit{We are also grateful to \textbf{Prof. Rajesh Ingle}, Head of Computer
  Engineering Department, PICT for his indispensable
@@ -216,18 +216,7 @@ Sponsored By : Marvell Pvt.ltd.
 % \item	Service Composition
 % \item	Online Web services
 % \end{itemize}
-\begin{enumerate}
-
-\item IOT.
-\item Cloud Computing.
-\item Cloud based storage.
-\item Web Application.
-\item Web Services.
-\item Web based interaction.
-\item Web Interfaces.
-\end{enumerate}
-
-
+IOT, Cloud Computing, Cloud based storage, Web Application, Web Services, Web based interaction, Web Interfaces.
 
 \section{Problem Statement}
 \label{sec:problem}
@@ -235,30 +224,29 @@ Sponsored By : Marvell Pvt.ltd.
 \section{Abstract}
 A vending machine is a machine that dispenses items such as snacks, bever-
 ages to customers automatically, after the customer inserts currency or credit
-into the machine. But nowadays paying in cash has become a difficulty and cannot be fulfilled every time.Therefore we provide a platform for the vending machine functionalitiesand management to be handled by cloud using Internet of things.With this approach Online payment for vending machines can be made possible and the
+into the machine. But nowadays paying in cash has become difficult and cannot be fulfilled every time. Therefore we provide a platform for the vending machine functionalities and management to be handled by cloud using Internet of things.With this approach online payment for vending machines can be made possible and the
 stock record is maintained on the cloud for dynamically updating the vendor.
-In addition to which the users are notified about the presence of the vending
-machine using Web Bluetooth API.
+In addition the users are notified about the presence of the vending
+machine in nearby area  using Web Bluetooth API.
 		    		   
-
 \section{Goals and Objectives}
 Project Goal :Presently operating the vending machines is not user-friendly and it is observed to be time consuming as well.Our project goal is to increase the scope and quality of the vending machine services provided to the people. 
+\begin{enumerate}
 
-Project Objective 1:
+\item Project Objective 1:
 People use coins or paper money while operating the vending machines due to which there arises a problem when the user does not seem to have exact change with him.
 Performance Measure :
 Online (cashless) payments are made available for the users for easy purchase of items.
-
-Project Objective 2:
+\item Project Objective 2:
 The vendors are not aware about the stock required in the vending machines when excess usage of the products occur.
 Performance Measure :
 Vendors are well informed about the stock management of the machine and are also aware of the customers past transactions.
-
-Project Objective 3 :
+\item Project Objective 3 :
 Finding a vending machine in new locations everytime becomes difficult for people.
 Performance Measure :
 The users are notified about the presence of the vending machine available in their current location using the Web Bluetooth API.
-	
+
+\end{enumerate}	
 \section{Relevant mathematics associated with the Project}
 \label{sec:math}
 System Description:\\
@@ -276,6 +264,14 @@ Fme = Main functions.\\
 Fme = (fin , fout,initiate,detect,connect).\\
 Fin : {Faddress , Fchoice}\\
 Fout:{Fdispose , Fsuggest}\\
+\begin{center}
+	\begin{figure}[!htbp]
+		\centering
+		\fbox{\includegraphics[height=150pt]{function.png}}
+	  \caption{Function Diagram}
+	  \label{fig:act-dig}
+	\end{figure}
+\end{center}  
 Finitiate :{Fconnectwifi ,Fflashurl,Fconnectaws}\\
 Fdetect:{Fdetectwifi}\\
 Fconnect:{Fcw ,Fcaws}\\
@@ -291,9 +287,10 @@ Failure Conditions: Invalid input( i.e invalid user choice)  given and desired r
 
 \section{Names of Conferences / Journals where papers can be published}
 
- Physical Web in Smart Cities - Advances in Wireless and Optical Communications (RTUWO), 2015\\
- On physical web models - Control and Communications (SIBCON), 2016 \\
-International Siberian Conference Finite state machine based vending machine – International Journal of VLSI design and communication system 2012.\\
+Journal of Internet Services and Applications\\
+IEEE Cloud Computing\\
+IEEE International Conference on Communications.\\
+International Journal of Advanced Computing and Technology\\
 
 
 \section{Review of Conference/Journal Papers supporting Project idea}
@@ -301,15 +298,51 @@ International Siberian Conference Finite state machine based vending machine –
 \begin{enumerate}
 
 \item Zaruba, G.v., S. Basagni, and I. Chlamtac. "Bluetrees-scatternet Formation to Enable Bluetooth-based Ad Hoc Networks." ICC 2001. IEEE International Conference on Communications. Conference Record (Cat. No.01CH37240) (n.d.): n. pag. Web\\
+Bluetooth is an open specification for short-range
+wireless communication and networking, mainly intended to be
+a cable replacement between portable and/or fixed electronic de-
+vices. The specification also defines techniques for interconnecting
+large number of nodes in scatternets, thus enabling the establish-
+ment of a mobile ad hoc network (MANET). While several solutions
+and commercial products have been introduced for one-hop Blue-
+tooth communication, the problem of scatternet formation has not
+yet been dealt with. This problem concerns the assignment of the
+roles of master and slave to each node so that the resulting MANET
+is connected. In this paper we introduce two novel protocols for
+forming connected scatternets. In both cases, the resulting topol-
+ogy is termed a bluetree. In our bluetrees the number of roles each
+node can assume are limited to two or three (depending on the
+protocol), thus imposing low slave management overhead. The ef-
+fectiveness of both protocols in forming MANETs is demonstrated
+through extensive simulations.\\
 \item Linthicum, David S. "The Technical Case for Mixing Cloud Computing and Manufacturing." IEEE Cloud Computing 3.4 (2016): 12-15. Web.\\
+Today’s manufacturing processes often lack visibility into resource consumption metrics, productivity, and even logistics. The end result is huge blind spots in the building process that often mean a lack of productivity and efficiency, leading manufacturing companies down unprofitable paths.\\
 \item Massuthe, P., and K. Schmidt. "Operating Guidelines - an Automata-Theoretic Foundation for the Service-Oriented Architecture." Fifth International Conference on Quality Software (QSIC'05) (n.d.): n. pag. Web.\\
+In the service-oriented architecture (SOA), we distinguish three roles of service owners: service providers, service requesters, and service brokers. Each service provider publishes information to the broker about how requesters can interact with its service. Thus, the broker can assign a fitting service provider to a querying requester. We propose the information published to the broker to be operating guidelines. Operating guidelines are essentially communication instructions for the service requester.
+We present an automata-theoretic approach that is centered around operating guidelines and is capable of implementing all tasks arising in the SOA.\\
+
 \item Sneps-Sneppe, Manfred, and Dmitry Namiot. "On Physical Web Models." 2016 International Siberian Conference on Control and Communications (SIBCON) (2016): n. pag. Web.\\
+The Physical Web is a generic term describes interconnection of physical objects and web. The Physical Web lets to present physical objects in a web. There are different ways
+to do that and we will discuss them in our paper. Usually, the web presentation for a physical object could implement with the help of mobile devices. The basic idea behind the Physical Web is to navigate and control physical objects in the world surrounding
+mobile devices with the help of web technologies. Of course, there are different ways to identify and enumerate physical objects. In this paper, we describe the existing models as well as related challenges. In our analysis, we will target objects enumeration
+and navigation as well as data retrieving and programming for the Physical Web. \\
 \item Namiot, Dmitry, and Manfred Sneps-Sneppe. "The Physical Web in Smart Cities." 2015 Advances in Wireless and Optical Communications (RTUWO) (2015): n. pag. Web.\\
+The AWS Cloud Transformation Maturity Model (CTMM) maps the maturity of
+an IT organization’s process, people, and technology capabilities as they move
+through the four stages of the journey to the AWS Cloud: project, foundation,
+migration, and optimization. The objective of the CTMM is to help enterprise IT
+organizations understand the significant challenges they might face to adopt
+AWS, learn best practices and activities to handle those challenges, and recognize
+the signs of maturity or expected outcomes to gauge their maturity and readiness
+at every stage. This whitepaper can guide organizations to measure their
+readiness for the AWS Cloud, build an effective cloud transformation strategy,
+and drive an effective execution plan.\\
 \item Lee, Jin-Shyan, Yu-Wei Su, and Chung-Chou Shen. "A Comparative Study of Wireless Protocols: Bluetooth, UWB, ZigBee, and Wi-Fi." IECON 2007 - 33rd Annual Conference of the IEEE Industrial Electronics Society (2007): n. pag. Web.\\
+Bluetooth (over IEEE 802.15.1), ultra-wideband(UWB, over IEEE 802.15.3), ZigBee (over IEEE 802.15.4), and Wi-Fi (over IEEE 802.11) are four protocol standards for short-range wireless communications with low power consumption. From an application point of view, Bluetooth is intended for a cordless mouse, keyboard, and hands-free headset, UWB is oriented to high-bandwidth multimedia links, ZigBee is designed for reliable wirelessly networked monitoring and control networks, while Wi-Fi is directed at computer-to-computer connections as an extension or substitution of cabled networks. In this paper, we provide a study of these popular wireless communication standards, evaluating their main features and behaviors in terms of various metrics, including the transmission time, data coding efficiency, complexity, and power consumption.It is believed that the comparison presented in this paper would benefit application engineers in selecting an appropriate protocol.\\
 \item Simeone, Osvaldo, and Haim H. Permuter. "Source Coding with Delayed Side Information." 2012 IEEE International Symposium on Information Theory Proceedings (2012): n. pag. Web.\\
+We study source coding in the presence of side information, when the system can take actions that affect the availability, quality, or nature of the side information. We begin by extending the Wyner-Ziv problem of source coding with decoder side information to the case where the decoder is allowed to choose actions affecting the side information. We then consider the setting where actions are taken by the encoder, based on its observation of the source. Actions may have costs that are commensurate with the quality of the side information they yield, and an overall per-symbol cost constraint may be imposed. We characterize the achievable tradeoffs between rate, distortion, and cost in some of these problem settings. Among our findings is the fact that even in the absence of a cost constraint, greedily choosing the action associated with the “best” side information is, in general, suboptimal.A few examples are worked out.\\
 \item Zhang, Qi, Lu Cheng, and Raouf Boutaba. "Cloud Computing: State-of-the-art and Research Challenges." Journal of Internet Services and Applications 1.1 (2010): 7-18. Web.\\
-
-
+Cloud computing has recently emerged as a new paradigm for hosting and delivering services over the Internet. Cloud computing is attractive to business owners as it eliminates the requirement for users to plan ahead for provisioning, and allows enterprises to start from the small and increase resources only when there is a rise in service demand. However, despite the fact that cloud computing offers huge opportunities to the IT industry, the development of cloud computing technology is currently at its infancy, with many issues still to be addressed. In this paper, we present a survey of cloud computing, highlighting its key concepts, architectural principles, state-of-the-art implementation as well as research challenges. The aim of this paper is to provide a better understanding of the design challenges of cloud computing and identify important research directions in this increasingly important area.\\
 \end{enumerate}   
 
 \section{Plan of Project Execution}
@@ -342,6 +375,17 @@ Deployment               &16 Feb – 28 Feb\\
 \caption{Project Plan}
 \label{tab:usecase}
 \end{table}
+\subsubsection{TimeLine Chart}
+\begin{center}
+	\begin{figure}[!htbp]
+		\centering
+		\fbox{\includegraphics[height=150pt]{gantt.png}}
+	  \caption{Timeline Chart}
+	  \label{fig:act-dig}
+	\end{figure}
+\end{center}  
+\newpage
+
 
 \chapter{Technical Keywords}
 \section{Area of Project}
@@ -375,32 +419,55 @@ Internet of Things
 \section{Literature Survey}
  Physical Web with Vending machine.\\
 Papers referred\\
-Zaruba, G.v., S. Basagni, and I. Chlamtac. "Bluetrees-scatternet Formation to Enable Bluetooth-based Ad Hoc Networks." ICC 2001. IEEE International Conference on Communications. Conference Record (Cat. No.01CH37240) (n.d.): n. pag. Web\\
-Linthicum, David S. "The Technical Case for Mixing Cloud Computing and Manufacturing." IEEE Cloud Computing 3.4 (2016): 12-15. Web.\\
-Massuthe, P., and K. Schmidt. "Operating Guidelines - an Automata-Theoretic Foundation for the Service-Oriented Architecture." Fifth International Conference on Quality Software (QSIC'05) (n.d.): n. pag. Web.\\
-Sneps-Sneppe, Manfred, and Dmitry Namiot. "On Physical Web Models." 2016 International Siberian Conference on Control and Communications (SIBCON) (2016): n. pag. Web.\\
-Namiot, Dmitry, and Manfred Sneps-Sneppe. "The Physical Web in Smart Cities." 2015 Advances in Wireless and Optical Communications (RTUWO) (2015): n. pag. Web.\\
-Lee, Jin-Shyan, Yu-Wei Su, and Chung-Chou Shen. "A Comparative Study of Wireless Protocols: Bluetooth, UWB, ZigBee, and Wi-Fi." IECON 2007 - 33rd Annual Conference of the IEEE Industrial Electronics Society (2007): n. pag. Web.\\
-Simeone, Osvaldo, and Haim H. Permuter. "Source Coding with Delayed Side Information." 2012 IEEE International Symposium on Information Theory Proceedings (2012): n. pag. Web.\\
-Zhang, Qi, Lu Cheng, and Raouf Boutaba. "Cloud Computing: State-of-the-art and Research Challenges." Journal of Internet Services and Applications 1.1 (2010): 7-18. Web.\\
-Abstract:
-A vending machine is a machine that dispenses items such  as snacks, beverages to customers automatically, after the customer inserts currency or credit into the machine. We are proposing a Platform for vending machine functionalities and management to be  handled by cloud using Internet of things.But nowadays paying in cash has become a difficulty and cannot be fulfilled every time.Therefore we suggest a platform for the vending machine functionalities and management to be  handled by cloud using Internet of things.With this approach Online payment for vending machines can be made possible and the stock record is maintained on the cloud for dynamically updating the vendor. In addition to which the users are notified about the presence of the vending machine using Web Bluetooth API.
+\begin{enumerate}
+\item Zaruba, G.v., S. Basagni, and I. Chlamtac. "Bluetrees-scatternet Formation to Enable Bluetooth-based Ad Hoc Networks." ICC 2001. IEEE International Conference on Communications. Conference Record (Cat. No.01CH37240) (n.d.): n. pag. Web\\
+Bluetooth is an open specification for short-range
+wireless communication and networking, mainly intended to be
+a cable replacement between portable and/or fixed electronic de-
+vices. The specification also defines techniques for interconnecting
+large number of nodes in scatternets, thus enabling the establish-
+ment of a mobile ad hoc network (MANET). While several solutions
+and commercial products have been introduced for one-hop Blue-
+tooth communication, the problem of scatternet formation has not
+yet been dealt with. This problem concerns the assignment of the
+roles of master and slave to each node so that the resulting MANET
+is connected. In this paper we introduce two novel protocols for
+forming connected scatternets. In both cases, the resulting topol-
+ogy is termed a bluetree. In our bluetrees the number of roles each
+node can assume are limited to two or three (depending on the
+protocol), thus imposing low slave management overhead. The ef-
+fectiveness of both protocols in forming MANETs is demonstrated
+through extensive simulations.\\
+\item Linthicum, David S. "The Technical Case for Mixing Cloud Computing and Manufacturing." IEEE Cloud Computing 3.4 (2016): 12-15. Web.\\
+Today’s manufacturing processes often lack visibility into resource consumption metrics, productivity, and even logistics. The end result is huge blind spots in the building process that often mean a lack of productivity and efficiency, leading manufacturing companies down unprofitable paths.\\
+\item Massuthe, P., and K. Schmidt. "Operating Guidelines - an Automata-Theoretic Foundation for the Service-Oriented Architecture." Fifth International Conference on Quality Software (QSIC'05) (n.d.): n. pag. Web.\\
+In the service-oriented architecture (SOA), we distinguish three roles of service owners: service providers, service requesters, and service brokers. Each service provider publishes information to the broker about how requesters can interact with its service. Thus, the broker can assign a fitting service provider to a querying requester. We propose the information published to the broker to be operating guidelines. Operating guidelines are essentially communication instructions for the service requester.
+We present an automata-theoretic approach that is centered around operating guidelines and is capable of implementing all tasks arising in the SOA.\\
 
-Introduction:
+\item Sneps-Sneppe, Manfred, and Dmitry Namiot. "On Physical Web Models." 2016 International Siberian Conference on Control and Communications (SIBCON) (2016): n. pag. Web.\\
+The Physical Web is a generic term describes interconnection of physical objects and web. The Physical Web lets to present physical objects in a web. There are different ways
+to do that and we will discuss them in our paper. Usually, the web presentation for a physical object could implement with the help of mobile devices. The basic idea behind the Physical Web is to navigate and control physical objects in the world surrounding
+mobile devices with the help of web technologies. Of course, there are different ways to identify and enumerate physical objects. In this paper, we describe the existing models as well as related challenges. In our analysis, we will target objects enumeration
+and navigation as well as data retrieving and programming for the Physical Web. \\
+\item Namiot, Dmitry, and Manfred Sneps-Sneppe. "The Physical Web in Smart Cities." 2015 Advances in Wireless and Optical Communications (RTUWO) (2015): n. pag. Web.\\
+The AWS Cloud Transformation Maturity Model (CTMM) maps the maturity of
+an IT organization’s process, people, and technology capabilities as they move
+through the four stages of the journey to the AWS Cloud: project, foundation,
+migration, and optimization. The objective of the CTMM is to help enterprise IT
+organizations understand the significant challenges they might face to adopt
+AWS, learn best practices and activities to handle those challenges, and recognize
+the signs of maturity or expected outcomes to gauge their maturity and readiness
+at every stage. This whitepaper can guide organizations to measure their
+readiness for the AWS Cloud, build an effective cloud transformation strategy,
+and drive an effective execution plan.\\
+\item Lee, Jin-Shyan, Yu-Wei Su, and Chung-Chou Shen. "A Comparative Study of Wireless Protocols: Bluetooth, UWB, ZigBee, and Wi-Fi." IECON 2007 - 33rd Annual Conference of the IEEE Industrial Electronics Society (2007): n. pag. Web.\\
+Bluetooth (over IEEE 802.15.1), ultra-wideband(UWB, over IEEE 802.15.3), ZigBee (over IEEE 802.15.4), and Wi-Fi (over IEEE 802.11) are four protocol standards for short-range wireless communications with low power consumption. From an application point of view, Bluetooth is intended for a cordless mouse, keyboard, and hands-free headset, UWB is oriented to high-bandwidth multimedia links, ZigBee is designed for reliable wirelessly networked monitoring and control networks, while Wi-Fi is directed at computer-to-computer connections as an extension or substitution of cabled networks. In this paper, we provide a study of these popular wireless communication standards, evaluating their main features and behaviors in terms of various metrics, including the transmission time, data coding efficiency, complexity, and power consumption.It is believed that the comparison presented in this paper would benefit application engineers in selecting an appropriate protocol.\\
+\item Simeone, Osvaldo, and Haim H. Permuter. "Source Coding with Delayed Side Information." 2012 IEEE International Symposium on Information Theory Proceedings (2012): n. pag. Web.\\
+We study source coding in the presence of side information, when the system can take actions that affect the availability, quality, or nature of the side information. We begin by extending the Wyner-Ziv problem of source coding with decoder side information to the case where the decoder is allowed to choose actions affecting the side information. We then consider the setting where actions are taken by the encoder, based on its observation of the source. Actions may have costs that are commensurate with the quality of the side information they yield, and an overall per-symbol cost constraint may be imposed. We characterize the achievable tradeoffs between rate, distortion, and cost in some of these problem settings. Among our findings is the fact that even in the absence of a cost constraint, greedily choosing the action associated with the “best” side information is, in general, suboptimal.A few examples are worked out.\\
+\item Zhang, Qi, Lu Cheng, and Raouf Boutaba. "Cloud Computing: State-of-the-art and Research Challenges." Journal of Internet Services and Applications 1.1 (2010): 7-18. Web.\\
+Cloud computing has recently emerged as a new paradigm for hosting and delivering services over the Internet. Cloud computing is attractive to business owners as it eliminates the requirement for users to plan ahead for provisioning, and allows enterprises to start from the small and increase resources only when there is a rise in service demand. However, despite the fact that cloud computing offers huge opportunities to the IT industry, the development of cloud computing technology is currently at its infancy, with many issues still to be addressed. In this paper, we present a survey of cloud computing, highlighting its key concepts, architectural principles, state-of-the-art implementation as well as research challenges. The aim of this paper is to provide a better understanding of the design challenges of cloud computing and identify important research directions in this increasingly important area.\\
+\end{enumerate}   
 
- The Physical Web is a generic term which describes interconnection of physical objects and web. The Physical Web lets to present physical objects in a web. There are different ways to do that.Usually, the web presentation for a physical object could implement with the help
-of mobile devices. The basic idea behind the Physical Web is to navigate and control physical objects in the world surrounding
-mobile devices with the help of web technologies. Of course, there are different ways to identify and enumerate physical objects.
-Nowadays operating the vending machines has been difficult due to cash payments and location issues.
-
-How to overcome this issue?
- We hereby suggest such types of vending machines which offer Online (cashless) payments for the users for easy purchase of items and the Vendors are well informed about the stock management of the machine and they are also aware of the customers past transactions.To begin with we will have a Wi-Fi enabled board on the vending machines which will send beacons to the mobile phones having Bluetooth in their vicinity.
-Nowadays bluetooth is an open specification for short-range wireless communication and networking, mainly intended to be a cable replacement between portable and/or fixed electronic devices. The specification also defines techniques for interconnecting large number of nodes in scatternets,thus enabling the establishment of a mobile ad hoc network (MANET).
-The user will receive a notification which will contain a URL flashed by the beacon on his cellphone along with suggestions for other products.
-and will hence find and approach the vending machine and click on the desired product on his cellphone.The transaction is carried out using the online payment gateways or mobile wallet and is recorded and stored in the cloud which is used for future transactions.
-In this project we are using Cloud computing in the functioning of the data,cloud computing has recently emerged as a new
-paradigm for hosting and delivering services over the Internet. It is attractive to business owners as it eliminates the requirement for users to plan ahead for provisioning, and allows enterprises to start from the small and increase resources only when there is a rise in service demand.
-Many different algorithms are going to be used in this project namely - The travelling salesperson algorithm,Depth first search.Using such algorithms we will provide a platform which will help the vendors manage the functioning of the vending machines in near future.
 
 
 \chapter{Problem Definition and scope}
@@ -410,31 +477,27 @@ Many different algorithms are going to be used in this project namely - The trav
 
 \subsection{Goals and objectives}  
 Project Goal :Presently operating the vending machines is not user-friendly and it is observed to be time consuming as well.Our project goal is to increase the scope and quality of the vending machine services provided to the people. 
-
 Project Objective 1:
 People use coins or paper money while operating the vending machines due to which there arises a problem when the user does not seem to have exact change with him.
 Performance Measure :
 Online (cashless) payments are made available for the users for easy purchase of items.
-
 Project Objective 2:
 The vendors are not aware about the stock required in the vending machines when excess usage of the products occur.
 Performance Measure :
 Vendors are well informed about the stock management of the machine and are also aware of the customers past transactions.
-
 Project Objective 3 :
 Finding a vending machine in new locations everytime becomes difficult for people.
 Performance Measure :
 The users are notified about the presence of the vending machine available in their current location using the Web Bluetooth API.
 	
  \subsection{Statement of scope} 
-This project will consist of creating a platform for vending machine functionalities and management to be  handled by cloud using Internet of things.Online payment for vending machines made possible and stock record maintained on the cloud for dynamically updating the vendor. Modules of the platform will include a firmware where hardware is used,cloud communication and a frontend available for users as well as for vendors respectively.
-
-Limit of the project will be internet dependency ,so better connection is required otherwise the entire system flops .
-
-
-Functionality mechanism is concentrated on removing the cash payment barrier on the vending machine .
-
-Final product will be used at public places like railway stations,airports,bus stands and can be used by private vendors.
+This project will consist of creating a platform for vending machine functionalities and management to be  handled by cloud using Internet of things.Online payment for vending machines made possible and stock record maintained on the cloud for dynamically updating the vendor. Modules of the platform will include a firmware where hardware is used,cloud communication and a frontend available for users as well as for vendors respectively.\\
+Type of vending machine : Product base.
+Products: Bisleri,  CoCo Cola ,other beverages.
+Device type : Mobiles which support chrome browser (e.g.Android/ios)\\
+Limit of the project will be internet dependency ,so better connection is required otherwise the entire system flops .\\
+Functionality mechanism is concentrated on removing the cash payment barrier on the vending machine .\\
+Final product will be used at public places like railway stations,airports,bus stands and can be used by private vendors.\\
 \section{Software context} 
 Online payment for vending machines made possible and stock record maintained on the cloud for dynamically updating the vendor. Modules of the platform will include a firmware where hardware is used,cloud communication and a frontend available for users as well as for vendors respectively.
 The software entities used are Web Bluetooth API,Linux,Eclipse(mars).
@@ -834,18 +897,6 @@ We are providing a platform to the vendors such that they will be able to store 
 	\end{figure}
 \end{center}  
 \newpage 
-\subsection{Data Flow Diagram}  
-\begin{center}
-	\begin{figure}[!htbp]
-		\centering
-		\fbox{\includegraphics[height=250pt]{erd.png}}
-	  \caption{Erd Diagram}
-	  \label{fig:act-dig}
-	\end{figure}
-\end{center}  
-
-\newpage
-
 \subsection{Description of functions}  
 
 Fme = Main functions.\\
@@ -904,8 +955,6 @@ Software quality attributes :\\
 	\end{figure}
 \end{center} 
 \newpage
- \subsection{Design Constraints}	
-Any design constraints that will impact the subsystem are noted.
  \subsection{Software Interface Description}	 
 Software interfacing is done between knit board (wifi enabled board) and Amazon web services  using aws iot js sdk .So the data is updated in time intervals to the cloud .Concept called thing shadows is used at the cloud side to dynamically update data .\\
 Interfacing is also done between cloud and vendor device for dynamically publishing the updated data at the AWS .
@@ -933,17 +982,6 @@ The vendor will have an updated list of the stock remaining in the cloud.
 		\fbox{\includegraphics[width=\textwidth]{Arch.png}}
 	  \caption{Architecture diagram}
 	  \label{fig:arch-dig}
-	\end{figure}
-\end{center} 
-\newpage
-
-\section{Data design }   
-\begin{center}
-	\begin{figure}[!htbp]
-		\centering
-		\fbox{\includegraphics[width=450pt]{erd.png}}
-	  \caption{ERD diagram}
-	  \label{fig:state-dig}
 	\end{figure}
 \end{center} 
 \newpage
