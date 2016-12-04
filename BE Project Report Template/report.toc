@@ -12,66 +12,65 @@
 \contentsline {section}{\numberline {1.11}Review of Conference/Journal Papers supporting Project idea}{5}{section.1.11}
 \contentsline {section}{\numberline {1.12}Plan of Project Execution}{9}{section.1.12}
 \contentsline {subsubsection}{\numberline {1.12.0.1}TimeLine Chart}{9}{subsubsection.1.12.0.1}
-\contentsline {chapter}{\numberline {2}Technical Keywords}{10}{chapter.2}
-\contentsline {section}{\numberline {2.1}Area of Project}{11}{section.2.1}
-\contentsline {section}{\numberline {2.2}Technical Keywords}{11}{section.2.2}
-\contentsline {chapter}{\numberline {3}Introduction}{12}{chapter.3}
-\contentsline {section}{\numberline {3.1}Project Idea}{13}{section.3.1}
-\contentsline {section}{\numberline {3.2}Motivation of the Project}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Literature Survey}{13}{section.3.3}
-\contentsline {chapter}{\numberline {4}Problem Definition and scope}{18}{chapter.4}
-\contentsline {section}{\numberline {4.1}Problem Statement}{19}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Goals and objectives}{19}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Statement of scope}{19}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}Software context}{20}{section.4.2}
-\contentsline {section}{\numberline {4.3}Major Constraints}{20}{section.4.3}
-\contentsline {section}{\numberline {4.4}Methodologies of Problem solving and efficiency issues}{21}{section.4.4}
-\contentsline {section}{\numberline {4.5}Scenario in which multi-core, Embedded and Distributed Computing used}{21}{section.4.5}
-\contentsline {section}{\numberline {4.6}Outcome}{21}{section.4.6}
-\contentsline {section}{\numberline {4.7}Applications}{21}{section.4.7}
-\contentsline {section}{\numberline {4.8}Hardware Resources Required}{21}{section.4.8}
-\contentsline {section}{\numberline {4.9}Software Resources Required}{22}{section.4.9}
-\contentsline {chapter}{\numberline {5}Project Plan}{23}{chapter.5}
-\contentsline {section}{\numberline {5.1}Project Estimates}{24}{section.5.1}
-\contentsline {subsubsection}{\numberline {5.1.0.1}Cost Estimate}{24}{subsubsection.5.1.0.1}
-\contentsline {subsubsection}{\numberline {5.1.0.2}Time Estimates}{24}{subsubsection.5.1.0.2}
-\contentsline {subsection}{\numberline {5.1.1}Project Resources}{25}{subsection.5.1.1}
-\contentsline {section}{\numberline {5.2}Risk Management w.r.t. NP Hard analysis}{26}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Risk Identification}{26}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Risk Analysis}{27}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Overview of Risk Mitigation, Monitoring, Management}{28}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}Project Schedule}{29}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Project task set}{29}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Task network}{29}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Timeline Chart}{30}{subsection.5.3.3}
-\contentsline {section}{\numberline {5.4}Team Organization}{30}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Team structure}{31}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Management reporting and communication}{31}{subsection.5.4.2}
-\contentsline {chapter}{\numberline {6}Software requirement specification (SRS is to be prepared using relevant mathematics derived and software engg. Indicators in Annex A and B)}{32}{chapter.6}
-\contentsline {section}{\numberline {6.1}Introduction}{33}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Purpose and Scope of Document}{33}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Overview of responsibilities of Developer}{33}{subsection.6.1.2}
-\contentsline {section}{\numberline {6.2}Usage Scenario}{34}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}User profiles}{34}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Use Case View}{34}{subsection.6.2.2}
-\contentsline {section}{\numberline {6.3}Data Model and Description}{35}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Data objects and Relationships}{35}{subsection.6.3.1}
-\contentsline {section}{\numberline {6.4}Functional Model and Description}{36}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Description of functions}{38}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Activity Diagram:}{38}{subsection.6.4.2}
-\contentsline {subsection}{\numberline {6.4.3}Non Functional Requirements:}{39}{subsection.6.4.3}
-\contentsline {subsection}{\numberline {6.4.4}State Diagram:}{40}{subsection.6.4.4}
-\contentsline {subsection}{\numberline {6.4.5}Software Interface Description}{42}{subsection.6.4.5}
-\contentsline {chapter}{\numberline {7}Detailed Design Document using Appendix A and B}{43}{chapter.7}
-\contentsline {section}{\numberline {7.1}Introduction}{44}{section.7.1}
-\contentsline {section}{\numberline {7.2}Architectural Design}{44}{section.7.2}
-\contentsline {section}{\numberline {7.3}Compoent Design}{45}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Class Diagram}{46}{subsection.7.3.1}
-\contentsline {section}{\numberline {.1}References}{46}{section.1..1}
-\contentsline {section}{\numberline {.2}Summary and Conclusion}{48}{section.1..2}
-\contentsline {chapter}{Annexure \numberline {A}Laboratory assignments on Project Analysis of Algorithmic Design}{49}{Annexure.1.A}
-\contentsline {chapter}{Annexure \numberline {B}Laboratory assignments on Project Quality and Reliability Testing of Project Design}{51}{Annexure.1.B}
-\contentsline {chapter}{Annexure \numberline {C}Project Planner}{53}{Annexure.1.C}
-\contentsline {chapter}{Annexure \numberline {D}Reviewers Comments of Paper Submitted}{55}{Annexure.1.D}
-\contentsline {chapter}{Annexure \numberline {E}Plagiarism Report}{57}{Annexure.1.E}
+\contentsline {chapter}{\numberline {2}Technical Keywords}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Area of Project}{12}{section.2.1}
+\contentsline {section}{\numberline {2.2}Technical Keywords}{12}{section.2.2}
+\contentsline {chapter}{\numberline {3}Introduction}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Project Idea}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2}Motivation of the Project}{14}{section.3.2}
+\contentsline {section}{\numberline {3.3}Literature Survey}{14}{section.3.3}
+\contentsline {chapter}{\numberline {4}Problem Definition and scope}{16}{chapter.4}
+\contentsline {section}{\numberline {4.1}Problem Statement}{17}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Goals and objectives}{17}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Statement of scope}{17}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Software context}{18}{section.4.2}
+\contentsline {section}{\numberline {4.3}Major Constraints}{18}{section.4.3}
+\contentsline {section}{\numberline {4.4}Methodologies of Problem solving and efficiency issues}{18}{section.4.4}
+\contentsline {section}{\numberline {4.5}Scenario in which multi-core, Embedded and Distributed Computing used}{19}{section.4.5}
+\contentsline {section}{\numberline {4.6}Outcome}{19}{section.4.6}
+\contentsline {section}{\numberline {4.7}Applications}{19}{section.4.7}
+\contentsline {section}{\numberline {4.8}Hardware Resources Required}{19}{section.4.8}
+\contentsline {section}{\numberline {4.9}Software Resources Required}{20}{section.4.9}
+\contentsline {chapter}{\numberline {5}Project Plan}{21}{chapter.5}
+\contentsline {section}{\numberline {5.1}Project Estimates}{22}{section.5.1}
+\contentsline {subsubsection}{\numberline {5.1.0.1}Time Estimates}{22}{subsubsection.5.1.0.1}
+\contentsline {subsection}{\numberline {5.1.1}Project Resources}{23}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Risk Management w.r.t. NP Hard analysis}{24}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Risk Identification}{24}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Risk Analysis}{25}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Overview of Risk Mitigation, Monitoring, Management}{26}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Project Schedule}{27}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Project task set}{27}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Task network}{27}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Timeline Chart}{28}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Team Organization}{28}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Team structure}{28}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Management reporting and communication}{29}{subsection.5.4.2}
+\contentsline {chapter}{\numberline {6}Software reqirement specification (SRS is to be prepared using relevant mathematics derived and software engg. Indicators in Annex A and B)}{30}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{31}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Purpose and Scope of Document}{31}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Overview of responsibilities of Developer}{31}{subsection.6.1.2}
+\contentsline {section}{\numberline {6.2}Usage Scenario}{32}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}User profiles}{32}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Use Case View}{32}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Data Model and Description}{33}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Data objects and Relationships}{33}{subsection.6.3.1}
+\contentsline {section}{\numberline {6.4}Functional Model and Description}{34}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Description of functions}{36}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Activity Diagram:}{36}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Non Functional Requirements:}{37}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}State Diagram:}{38}{subsection.6.4.4}
+\contentsline {subsection}{\numberline {6.4.5}Software Interface Description}{40}{subsection.6.4.5}
+\contentsline {chapter}{\numberline {7}Detailed Design Document using Appendix A and B}{41}{chapter.7}
+\contentsline {section}{\numberline {7.1}Introduction}{42}{section.7.1}
+\contentsline {section}{\numberline {7.2}Architectural Design}{42}{section.7.2}
+\contentsline {section}{\numberline {7.3}Compoent Design}{43}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Class Diagram}{44}{subsection.7.3.1}
+\contentsline {section}{\numberline {.1}References}{44}{section.1..1}
+\contentsline {section}{\numberline {.2}Summary and Conclusion}{46}{section.1..2}
+\contentsline {chapter}{Annexure \numberline {A}Laboratory assignments on Project Analysis of Algorithmic Design}{47}{Annexure.1.A}
+\contentsline {chapter}{Annexure \numberline {B}Laboratory assignments on Project Quality and Reliability Testing of Project Design}{49}{Annexure.1.B}
+\contentsline {chapter}{Annexure \numberline {C}Project Planner}{51}{Annexure.1.C}
+\contentsline {chapter}{Annexure \numberline {D}Reviewers Comments of Paper Submitted}{53}{Annexure.1.D}
+\contentsline {chapter}{Annexure \numberline {E}Plagiarism Report}{55}{Annexure.1.E}
 \contentsfinish 
