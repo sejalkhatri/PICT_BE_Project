@@ -24,50 +24,46 @@
 \BOOKMARK [2][-]{subsection.4.1.2}{Statement of scope}{section.4.1}% 24
 \BOOKMARK [1][-]{section.4.2}{Software context}{chapter.4}% 25
 \BOOKMARK [1][-]{section.4.3}{Major Constraints}{chapter.4}% 26
-\BOOKMARK [1][-]{section.4.4}{Methodologies of Problem solving and efficiency issues}{chapter.4}% 27
-\BOOKMARK [1][-]{section.4.5}{Scenario in which multi-core, Embedded and Distributed Computing used}{chapter.4}% 28
-\BOOKMARK [1][-]{section.4.6}{Outcome}{chapter.4}% 29
-\BOOKMARK [1][-]{section.4.7}{Applications}{chapter.4}% 30
-\BOOKMARK [1][-]{section.4.8}{Hardware Resources Required}{chapter.4}% 31
-\BOOKMARK [1][-]{section.4.9}{Software Resources Required}{chapter.4}% 32
-\BOOKMARK [0][-]{chapter.5}{Project Plan}{}% 33
-\BOOKMARK [1][-]{section.5.1}{Project Estimates}{chapter.5}% 34
-\BOOKMARK [2][-]{subsection.5.1.1}{Project Resources}{section.5.1}% 35
-\BOOKMARK [1][-]{section.5.2}{Risk Management w.r.t. NP Hard analysis}{chapter.5}% 36
-\BOOKMARK [2][-]{subsection.5.2.1}{Risk Identification}{section.5.2}% 37
-\BOOKMARK [2][-]{subsection.5.2.2}{Risk Analysis}{section.5.2}% 38
-\BOOKMARK [2][-]{subsection.5.2.3}{Overview of Risk Mitigation, Monitoring, Management}{section.5.2}% 39
-\BOOKMARK [1][-]{section.5.3}{Project Schedule}{chapter.5}% 40
-\BOOKMARK [2][-]{subsection.5.3.1}{Project task set}{section.5.3}% 41
-\BOOKMARK [2][-]{subsection.5.3.2}{Task network}{section.5.3}% 42
-\BOOKMARK [2][-]{subsection.5.3.3}{Timeline Chart}{section.5.3}% 43
-\BOOKMARK [1][-]{section.5.4}{Team Organization}{chapter.5}% 44
-\BOOKMARK [2][-]{subsection.5.4.1}{Team structure}{section.5.4}% 45
-\BOOKMARK [2][-]{subsection.5.4.2}{Management reporting and communication}{section.5.4}% 46
-\BOOKMARK [0][-]{chapter.6}{Software reqirement specification \(SRS is to be prepared using relevant mathematics derived and software engg. Indicators in Annex A and B\)}{}% 47
-\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 48
-\BOOKMARK [2][-]{subsection.6.1.1}{Purpose and Scope of Document}{section.6.1}% 49
-\BOOKMARK [2][-]{subsection.6.1.2}{Overview of responsibilities of Developer}{section.6.1}% 50
-\BOOKMARK [1][-]{section.6.2}{Usage Scenario}{chapter.6}% 51
-\BOOKMARK [2][-]{subsection.6.2.1}{User profiles}{section.6.2}% 52
-\BOOKMARK [2][-]{subsection.6.2.2}{Use Case View}{section.6.2}% 53
-\BOOKMARK [1][-]{section.6.3}{Data Model and Description}{chapter.6}% 54
-\BOOKMARK [2][-]{subsection.6.3.1}{Data objects and Relationships}{section.6.3}% 55
-\BOOKMARK [1][-]{section.6.4}{Functional Model and Description}{chapter.6}% 56
-\BOOKMARK [2][-]{subsection.6.4.1}{Description of functions}{section.6.4}% 57
-\BOOKMARK [2][-]{subsection.6.4.2}{Activity Diagram:}{section.6.4}% 58
-\BOOKMARK [2][-]{subsection.6.4.3}{Non Functional Requirements:}{section.6.4}% 59
-\BOOKMARK [2][-]{subsection.6.4.4}{State Diagram:}{section.6.4}% 60
-\BOOKMARK [2][-]{subsection.6.4.5}{Software Interface Description}{section.6.4}% 61
-\BOOKMARK [0][-]{chapter.7}{Detailed Design Document using Appendix A and B}{}% 62
-\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 63
-\BOOKMARK [1][-]{section.7.2}{Architectural Design}{chapter.7}% 64
-\BOOKMARK [1][-]{section.7.3}{Compoent Design}{chapter.7}% 65
-\BOOKMARK [2][-]{subsection.7.3.1}{Class Diagram}{section.7.3}% 66
-\BOOKMARK [1][-]{section.1..1}{References}{chapter.7}% 67
-\BOOKMARK [1][-]{section.1..2}{Summary and Conclusion}{chapter.7}% 68
-\BOOKMARK [0][-]{Annexure.1.A}{Annexure Laboratory assignments on Project Analysis of Algorithmic Design}{}% 69
-\BOOKMARK [0][-]{Annexure.1.B}{Annexure Laboratory assignments on Project Quality and Reliability Testing of Project Design}{}% 70
-\BOOKMARK [0][-]{Annexure.1.C}{Annexure Project Planner}{}% 71
-\BOOKMARK [0][-]{Annexure.1.D}{Annexure Reviewers Comments of Paper Submitted}{}% 72
-\BOOKMARK [0][-]{Annexure.1.E}{Annexure Plagiarism Report}{}% 73
+\BOOKMARK [1][-]{section.4.4}{Scenario in which multi-core, Embedded and Distributed Computing used}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.5}{Outcome}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.6}{Applications}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.7}{Hardware Resources Required}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.8}{Software Resources Required}{chapter.4}% 31
+\BOOKMARK [0][-]{chapter.5}{Project Plan}{}% 32
+\BOOKMARK [1][-]{section.5.1}{Project Estimates}{chapter.5}% 33
+\BOOKMARK [2][-]{subsection.5.1.1}{Project Resources}{section.5.1}% 34
+\BOOKMARK [1][-]{section.5.2}{Risk Management w.r.t. NP Hard analysis}{chapter.5}% 35
+\BOOKMARK [2][-]{subsection.5.2.1}{Risk Identification}{section.5.2}% 36
+\BOOKMARK [2][-]{subsection.5.2.2}{Risk Analysis}{section.5.2}% 37
+\BOOKMARK [2][-]{subsection.5.2.3}{Overview of Risk Mitigation, Monitoring, Management}{section.5.2}% 38
+\BOOKMARK [1][-]{section.5.3}{Project Schedule}{chapter.5}% 39
+\BOOKMARK [2][-]{subsection.5.3.1}{Project task set}{section.5.3}% 40
+\BOOKMARK [2][-]{subsection.5.3.2}{Task network}{section.5.3}% 41
+\BOOKMARK [2][-]{subsection.5.3.3}{Timeline Chart}{section.5.3}% 42
+\BOOKMARK [1][-]{section.5.4}{Team Organization}{chapter.5}% 43
+\BOOKMARK [2][-]{subsection.5.4.1}{Team structure}{section.5.4}% 44
+\BOOKMARK [2][-]{subsection.5.4.2}{Management reporting and communication}{section.5.4}% 45
+\BOOKMARK [0][-]{chapter.6}{Software reqirement specification \(SRS is to be prepared using relevant mathematics derived and software engg. Indicators in Annex A and B\)}{}% 46
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 47
+\BOOKMARK [2][-]{subsection.6.1.1}{Purpose and Scope of Document}{section.6.1}% 48
+\BOOKMARK [2][-]{subsection.6.1.2}{Overview of responsibilities of Developer}{section.6.1}% 49
+\BOOKMARK [1][-]{section.6.2}{Usage Scenario}{chapter.6}% 50
+\BOOKMARK [2][-]{subsection.6.2.1}{User profiles}{section.6.2}% 51
+\BOOKMARK [2][-]{subsection.6.2.2}{Use Case View}{section.6.2}% 52
+\BOOKMARK [1][-]{section.6.3}{Data Model and Description}{chapter.6}% 53
+\BOOKMARK [2][-]{subsection.6.3.1}{Data objects and Relationships}{section.6.3}% 54
+\BOOKMARK [1][-]{section.6.4}{Functional Model and Description}{chapter.6}% 55
+\BOOKMARK [2][-]{subsection.6.4.1}{Description of functions}{section.6.4}% 56
+\BOOKMARK [2][-]{subsection.6.4.2}{Activity Diagram:}{section.6.4}% 57
+\BOOKMARK [2][-]{subsection.6.4.3}{State Diagram:}{section.6.4}% 58
+\BOOKMARK [2][-]{subsection.6.4.4}{Software Interface Description}{section.6.4}% 59
+\BOOKMARK [0][-]{chapter.7}{Detailed Design Document using Appendix A and B}{}% 60
+\BOOKMARK [1][-]{section.7.1}{Introduction}{chapter.7}% 61
+\BOOKMARK [1][-]{section.7.2}{Architectural Design}{chapter.7}% 62
+\BOOKMARK [1][-]{section.7.3}{Compoent Design}{chapter.7}% 63
+\BOOKMARK [2][-]{subsection.7.3.1}{Class Diagram}{section.7.3}% 64
+\BOOKMARK [1][-]{section.1..1}{Summary and Conclusion}{chapter.7}% 65
+\BOOKMARK [0][-]{Annexure.1.A}{Annexure Laboratory assignments on Project Analysis of Algorithmic Design}{}% 66
+\BOOKMARK [0][-]{Annexure.1.B}{Annexure Laboratory assignments on Project Quality and Reliability Testing of Project Design}{}% 67
+\BOOKMARK [0][-]{Annexure.1.C}{Annexure Reviewers Comments of Paper Submitted}{}% 68
+\BOOKMARK [0][-]{Annexure.1.D}{Annexure Plagiarism Report}{}% 69

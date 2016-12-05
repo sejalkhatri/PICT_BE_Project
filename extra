@@ -1,0 +1,13 @@
+Task 1:Establishing WiFi connection of the vendng machine.\\
+Task 2:Establishing connection between cloud and the vending machine.\\
+Task 3:Activation of beacons.\\
+Task 4:Find the user location and make online payment available(Mobile wallets). \\
+Task 5:Data is updated and stored on the cloud respectively.\\
+Task 6:Vendor is informed about the transaction.\\
+
+
+Scenario1: User doesn't get notified :\\
+This happens if users bluetooth is not activated ,than he doesn't get the notification .\\
+Scenario2:If the wifi connection breaks while the delivery process\\
+The details are saved at the cloud side and if the vending machine  is reconnected then it makes the delivery as the payment status is updated .\\\
+

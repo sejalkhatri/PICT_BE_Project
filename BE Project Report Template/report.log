@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.7)  3 DEC 2016 12:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.7)  5 DEC 2016 14:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -880,7 +880,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 58.
- <collegelogo.png, id=300, 180.675pt x 180.675pt>
+ <collegelogo.png, id=284, 180.675pt x 180.675pt>
 File: collegelogo.png Graphic file (type png)
 
 <use collegelogo.png>
@@ -1034,32 +1034,39 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--268
+Underfull \hbox (badness 10000) in paragraph at lines 254--269
 
  []
 
-[3] <function.png, id=474, 591.20876pt x 661.47125pt>
+[3] <function.png, id=459, 591.20876pt x 661.47125pt>
 File: function.png Graphic file (type png)
  <use function.png>
-Package pdftex.def Info: function.png used on input line 271.
+Package pdftex.def Info: function.png used on input line 272.
 (pdftex.def)             Requested size: 134.06267pt x 150.0pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--287
+Underfull \hbox (badness 10000) in paragraph at lines 277--288
 
  []
 
 [4 <./function.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 291--295
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ã in font ptmr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--296
 
  []
 
 
-Overfull \hbox (0.39458pt too wide) in paragraph at lines 297--297
+Overfull \hbox (0.39458pt too wide) in paragraph at lines 298--298
 |\OT1/ptm/b/n/12 REVIEW OF CON-FER-ENCE/JOURNAL PA-PERS SUP-PORT-ING PROJECT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 301--319
+Underfull \hbox (badness 10000) in paragraph at lines 302--320
 
  []
 
@@ -1068,23 +1075,23 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 319--321
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--324
+Underfull \hbox (badness 10000) in paragraph at lines 322--325
 
  []
 
 
-Overfull \hbox (0.52827pt too wide) in paragraph at lines 325--330
+Overfull \hbox (0.52827pt too wide) in paragraph at lines 326--331
 \OT1/ptm/m/n/12 2016 In-ter-na-tional Siberian Con-fer-ence on Con-trol and Com
 -mu-ni-ca-tions (SIB-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--330
+Underfull \hbox (badness 10000) in paragraph at lines 326--331
 
  []
 
@@ -1093,12 +1100,12 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--341
+Underfull \hbox (badness 10000) in paragraph at lines 331--342
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
 
  []
 
@@ -1110,12 +1117,12 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--345
+Underfull \hbox (badness 10000) in paragraph at lines 344--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--347
+Underfull \hbox (badness 10000) in paragraph at lines 346--348
 
  []
 
@@ -1174,459 +1181,464 @@ Missing character: There is no ì in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
- <gantt.png, id=507, 417.05812pt x 143.78719pt>
+ [9] <gantt.png, id=500, 417.05812pt x 143.78719pt>
 File: gantt.png Graphic file (type png)
  <use gantt.png>
-Package pdftex.def Info: gantt.png used on input line 383.
+Package pdftex.def Info: gantt.png used on input line 411.
 (pdftex.def)             Requested size: 435.09206pt x 150.0pt.
 
-Overfull \hbox (39.51292pt too wide) in paragraph at lines 383--384
+Overfull \hbox (39.51292pt too wide) in paragraph at lines 411--412
  [][] 
  []
 
-[9] [10 <./gantt.png>]
+[10 <./gantt.png>]
 Chapter 2.
 [11
 
-] [12]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 430--437
+
+ []
+
+[12]
 Chapter 3.
 [13
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 421--423
+Underfull \hbox (badness 10000) in paragraph at lines 449--460
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 Cloud com-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 -of-the-Art
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 On Phys-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 Bluetrees-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 scatternet
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 For-ma-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 to En-able
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 Bluetooth-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 A Com-par-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 a-tive Study
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 of Wire-less
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 Pro-to-cols:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 Blue-tooth,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 UWB, Zig-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 Bee, and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 To present
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 a sur-vey
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 of cloud
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 com-put-ing,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 high-light-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 ing its key
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 con-cepts,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 ar-chi-tec-tural
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 prin-ci-ples,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 state-of-the-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 as re-search
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 The ex-ist-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 ing phys-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 web mod-els
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 as well as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 re-lated chal-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 lenges are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 de-scribed in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 Two novel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 pro-to-cols
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 for form-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 con-nected
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 448--448
+Underfull \hbox (badness 1019) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 To pro-vide a
  []
 
 
-Underfull \hbox (badness 5878) in paragraph at lines 448--448
+Underfull \hbox (badness 5878) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 less com-mu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 To pro-vide
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 448--448
+Underfull \hbox (badness 5091) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 a bet-ter un-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 der-stand-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 chal-lenges
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 of cloud
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 com-put-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 and iden-tify
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 im-por-tant
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 re-search
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 di-rec-tions
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 in this in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 creas-ingly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 im-por-tant
  []
 
 
-Underfull \hbox (badness 5908) in paragraph at lines 448--448
+Underfull \hbox (badness 5908) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 Objects enu-
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 448--448
+Underfull \hbox (badness 2150) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 mer-a-tion and
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 448--448
+Underfull \hbox (badness 1708) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 nav-i-ga-tion as
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 448--448
+Underfull \hbox (badness 3118) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 well as data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 re-triev-ing
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 448--448
+Underfull \hbox (badness 1394) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 ming for the
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 448--448
+Underfull \hbox (badness 2142) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 ness of both
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 pro-to-cols
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 in form-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 MANETs is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 demon-strated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 through
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 ex-ten-sive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 []|\OT1/ptm/m/n/12 Study of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 mu-ni-ca-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 stan-dards,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 eval-u-at-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 their main
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 fea-tures and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 be-hav-iors in
  []
 
 
-Underfull \hbox (badness 5064) in paragraph at lines 448--448
+Underfull \hbox (badness 5064) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 i-ous met-rics,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 in-clud-ing
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 448--448
+Underfull \hbox (badness 3118) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 the trans-mis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 sion time,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 data cod-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 ef-fi-ciency,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 com-plex-ity,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 and power
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--448
+Underfull \hbox (badness 10000) in paragraph at lines 484--484
 \OT1/ptm/m/n/12 con-sump-tion
  []
 
 
-LaTeX Warning: Float too large for page by 31.71043pt on input line 452.
+LaTeX Warning: Float too large for page by 31.71043pt on input line 488.
 
-[14] [15]
+[15] [16]
 Chapter 4.
-[16
+[17
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 477--484
+Underfull \hbox (badness 10000) in paragraph at lines 518--525
 
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 485--487
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 526--528
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--492
+Underfull \hbox (badness 10000) in paragraph at lines 530--533
 
  []
 
-[18] [19] [20]
+[19] [20] [21]
 Chapter 5.
-[21
+[22
 
 ]
 Missing character: There is no ‚ in font ptmr7t!
@@ -1683,368 +1695,247 @@ Missing character: There is no ì in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
- [22]
-Underfull \hbox (badness 10000) in paragraph at lines 585--596
+ [23]
+Underfull \hbox (badness 10000) in paragraph at lines 625--629
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 585--596
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 585--596
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 585--596
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 585--596
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 585--596
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 585--596
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 585--596
-
- []
-
-[23]
-Overfull \hbox (0.1312pt too wide) in paragraph at lines 612--614
+[24]
+Overfull \hbox (0.1312pt too wide) in paragraph at lines 634--636
 []\OT1/ptm/m/n/12 Are end-users en-thu-si-as-ti-cally com-mit-ted to the projec
 t and the sys-tem/product
  []
 
-[24]
+[25]
 
-LaTeX Warning: Citation `bookPressman' on page 25 undefined on input line 662.
-
-
-LaTeX Warning: Citation `bookPressman' on page 25 undefined on input line 662.
+LaTeX Warning: Citation `bookPressman' on page 26 undefined on input line 684.
 
 
-LaTeX Warning: Citation `bookPressman' on page 25 undefined on input line 678.
+LaTeX Warning: Citation `bookPressman' on page 26 undefined on input line 684.
 
 
-LaTeX Warning: Citation `bookPressman' on page 25 undefined on input line 678.
-
-[25] [26]
-Underfull \hbox (badness 10000) in paragraph at lines 727--734
-
- []
+LaTeX Warning: Citation `bookPressman' on page 26 undefined on input line 700.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 737--743
+LaTeX Warning: Citation `bookPressman' on page 26 undefined on input line 700.
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 749--756
 
  []
 
-<task.png, id=610, 1149.29375pt x 763.85374pt>
-File: task.png Graphic file (type png)
- <use task.png>
-Package pdftex.def Info: task.png used on input line 750.
-(pdftex.def)             Requested size: 376.14656pt x 250.0pt.
- [27]
+[27] <tn.png, id=630, 1134.2375pt x 752.8125pt>
+File: tn.png Graphic file (type png)
+ <use tn.png>
+Package pdftex.def Info: tn.png used on input line 762.
+(pdftex.def)             Requested size: 376.6706pt x 250.0pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 767--775
+
+ []
+
+[28 <./tn.png>]
 File: gantt.png Graphic file (type png)
-
-<use gantt.png>
-Package pdftex.def Info: gantt.png used on input line 762.
+ <use gantt.png>
+Package pdftex.def Info: gantt.png used on input line 782.
 (pdftex.def)             Requested size: 435.09206pt x 150.0pt.
 
-Overfull \hbox (39.51292pt too wide) in paragraph at lines 762--763
+Overfull \hbox (39.51292pt too wide) in paragraph at lines 782--783
  [][] 
  []
 
-[28 <./task.png>] [29]
+[29]
 Chapter 6.
 [30
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 789--805
-
- []
-
-[31]
-Underfull \hbox (badness 10000) in paragraph at lines 818--822
+Underfull \hbox (badness 10000) in paragraph at lines 809--822
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 824--830
+Underfull \hbox (badness 10000) in paragraph at lines 837--844
 
  []
 
-<usecase.png, id=639, 1156.32pt x 643.40375pt>
-File: usecase.png Graphic file (type png)
- <use usecase.png>
-Package pdftex.def Info: usecase.png used on input line 836.
-(pdftex.def)             Requested size: 402.37912pt x 223.88895pt.
+[31] <uc.png, id=655, 1170.3725pt x 694.595pt>
+File: uc.png Graphic file (type png)
+ <use uc.png>
+Package pdftex.def Info: uc.png used on input line 850.
+(pdftex.def)             Requested size: 402.37912pt x 238.80884pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 836--837
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 850--851
  [][] 
  []
 
-[32] <erd.png, id=645, 444.15938pt x 259.7203pt>
+[32 <./uc.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 856--859
+
+ []
+
+<erd.png, id=661, 444.15938pt x 259.7203pt>
 File: erd.png Graphic file (type png)
  <use erd.png>
-Package pdftex.def Info: erd.png used on input line 847.
+Package pdftex.def Info: erd.png used on input line 864.
 (pdftex.def)             Requested size: 402.37912pt x 235.28772pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 847--848
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 864--865
  [][] 
  []
 
-[33 <./usecase.png> <./erd.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 854--859
+[33 <./erd.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 860--863
+Underfull \hbox (badness 10000) in paragraph at lines 874--879
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 864--866
+Underfull \hbox (badness 10000) in paragraph at lines 880--883
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 867--873
+Underfull \hbox (badness 10000) in paragraph at lines 884--886
 
  []
 
-[34] <class.png, id=657, 795.97375pt x 694.595pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 887--893
+
+ []
+
+[34] <class.png, id=673, 795.97375pt x 694.595pt>
 File: class.png Graphic file (type png)
  <use class.png>
-Package pdftex.def Info: class.png used on input line 878.
+Package pdftex.def Info: class.png used on input line 898.
 (pdftex.def)             Requested size: 378.17648pt x 330.0pt.
  [35 <./class.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 886--902
+Underfull \hbox (badness 10000) in paragraph at lines 904--905
 
  []
 
-<activity.png, id=663, 60.225pt x 114.06615pt>
-File: activity.png Graphic file (type png)
- <use activity.png>
-Package pdftex.def Info: activity.png used on input line 907.
-(pdftex.def)             Requested size: 227.0387pt x 430.0pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 907--923
+
+ []
+
+<ad.png, id=679, 482.30188pt x 594.22pt>
+File: ad.png Graphic file (type png)
+ <use ad.png>
+Package pdftex.def Info: ad.png used on input line 928.
+(pdftex.def)             Requested size: 349.02333pt x 430.0pt.
  [36]
-Underfull \hbox (badness 10000) in paragraph at lines 916--929
+Underfull \hbox (badness 10000) in paragraph at lines 938--939
 
  []
 
-[37 <./activity.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 931--932
-
- []
-
-<state.png, id=673, 708.6475pt x 839.135pt>
+<state.png, id=684, 708.6475pt x 839.135pt>
 File: state.png Graphic file (type png)
  <use state.png>
-Package pdftex.def Info: state.png used on input line 936.
+Package pdftex.def Info: state.png used on input line 943.
 (pdftex.def)             Requested size: 450.0pt x 532.8704pt.
 
-Overfull \hbox (54.42087pt too wide) in paragraph at lines 936--937
+Overfull \hbox (54.42087pt too wide) in paragraph at lines 943--944
  [][] 
  []
 
-[38] [39 <./state.png>] [40]
+[37 <./ad.png>] [38 <./state.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 962--969
+
+ []
+
+[39] [40]
 Chapter 7.
 [41
 
-] <Arch.png, id=693, 753.81625pt x 844.15375pt>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 971--977
+
+ []
+
+<Arch.png, id=708, 753.81625pt x 844.15375pt>
 File: Arch.png Graphic file (type png)
  <use Arch.png>
-Package pdftex.def Info: Arch.png used on input line 966.
+Package pdftex.def Info: Arch.png used on input line 981.
 (pdftex.def)             Requested size: 402.37912pt x 450.59378pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 966--967
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 981--982
  [][] 
  []
 
-[42]
+[42] [43 <./Arch.png>]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
-
-Underfull \hbox (badness 10000) in paragraph at lines 974--980
-
- []
-
-[43 <./Arch.png>]
+ [44]
 File: class.png Graphic file (type png)
  <use class.png>
-Package pdftex.def Info: class.png used on input line 984.
+Package pdftex.def Info: class.png used on input line 1027.
 (pdftex.def)             Requested size: 450.0pt x 392.68008pt.
 
-Overfull \hbox (54.42087pt too wide) in paragraph at lines 984--985
+Overfull \hbox (54.42087pt too wide) in paragraph at lines 1027--1028
  [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 994--995
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 995--996
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 996--997
-
- []
-
-[44]
-Overfull \hbox (0.52827pt too wide) in paragraph at lines 997--998
-\OT1/ptm/m/n/12 2016 In-ter-na-tional Siberian Con-fer-ence on Con-trol and Com
--mu-ni-ca-tions (SIB-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 997--998
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 998--999
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 999--1000
-
- []
-
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 1000--1001
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1001--1002
-
- []
-
-[46]
+[45] [46]
 Annexure A.
 [47
 
 ]
-
-LaTeX Warning: Citation `innovationbook' on page 48 undefined on input line 101
-6.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1017
-
- []
-
-
-Overfull \hbox (4.65814pt too wide) in paragraph at lines 1036--1038
-[]\OT1/ptm/m/n/12 Project prob-lem state-ment fea-si-bil-ity as-sess-ment us-in
-g NP-Hard, NP-Complete
- []
-
-[48]
 Annexure B.
-[49
+[48
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 1051--1054
-
- []
-
-
-LaTeX Warning: Citation `ehr' on page 50 undefined on input line 1058.
-
-
-LaTeX Warning: Citation `mckinsey' on page 50 undefined on input line 1058.
-
-
-LaTeX Warning: Citation `mckinseyweb' on page 50 undefined on input line 1058.
-
-
-LaTeX Warning: Citation `govwebsite' on page 50 undefined on input line 1058.
-
-
-Overfull \hbox (5.13737pt too wide) in paragraph at lines 1055--1059
-\OT1/ptm/m/n/12 Additional as-sign-ments by the guide. If project type as En-tr
-epre-naur, Re-fer [[]],[[]],[[]],
- []
-
-[50]
 Annexure C.
-[51
-
-] [52]
-Annexure D.
-[53
+[49
 
 ]
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ì in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 1073--1077
+Underfull \hbox (badness 10000) in paragraph at lines 1052--1056
 
  []
 
-[54]
-Annexure E.
-[55
+[50]
+Annexure D.
+[51
 
-] [56]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1092.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1092.
+] [52]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1071.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1071.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1092.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1092.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1071.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1071.
 
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 5D424C4D75A1C75698B57E0BD53AC96B;5110.
 
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: 2E7D84CF10771ED6B639261B933F859A;5415
-(rerunfilecheck)             After:  82DCE5BA8D08D2EEF3B2EFD6E989F293;5414.
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1092.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1071.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 111 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 21235 strings out of 494910
- 431984 string characters out of 6179837
- 614542 words of memory out of 5000000
- 23894 multiletter control sequences out of 15000+600000
+ 21254 strings out of 494910
+ 431959 string characters out of 6179837
+ 614454 words of memory out of 5000000
+ 23883 multiletter control sequences out of 15000+600000
  26823 words of font info for 55 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 62i,12n,82p,989b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,82p,989b,963s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texl
@@ -2052,10 +1943,10 @@ ive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a
 .pfb>
-Output written on report.pdf (65 pages, 2021001 bytes).
+Output written on report.pdf (61 pages, 2209132 bytes).
 PDF statistics:
- 841 PDF objects out of 1000 (max. 8388607)
- 742 compressed objects within 8 object streams
- 214 named destinations out of 1000 (max. 500000)
- 647 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 850 PDF objects out of 1000 (max. 8388607)
+ 755 compressed objects within 8 object streams
+ 244 named destinations out of 1000 (max. 500000)
+ 615 words of extra memory for PDF output out of 10000 (max. 10000000)
 
