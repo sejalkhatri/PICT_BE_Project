@@ -3,12 +3,39 @@
   <head>
     <title>VendingMachine</title>
     <%= csrf_meta_tags %>
-
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
   <body>
-    <h3> Hello!!! </h3>
+    <h4>Product Catalog</h4>
+    <table>
+      <tr>
+        <td>Product Name </td>
+        <td>Price </td>
+        <td>Available</td>
+        <td>Quantity</td>
+        <td>Add to Cart</td>
+      </tr>
+      <% @product.each do |p| %>
+        <tr>
+          <td><%=p.name %></td>
+          <td><%=p.price%></td>
+          <td><%=p.stock%></td>
+          <td>
+            <select>
+              <% $i =0%>
+              <% until $i > p.stock do %>
+                <option value= "<%= $i %>"> <%= $i %></option>
+                <% $i +=1 %>
+              <%end%>
+            </select>
+          </td>
+          <td>
+            <button> Add </button>
+          </td>
+        </tr>
+      <% end %>
+    </table>
   </body>
 </html>

@@ -10,18 +10,21 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 0) do
+ActiveRecord::Schema.define(version: 20170127162304) do
 
-  create_table "products", id: false, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=latin1" do |t|
-    t.integer "id"
-    t.string  "name", limit: 20
+  create_table "products", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=latin1" do |t|
+    t.string   "name"
+    t.datetime "created_at",        null: false
+    t.datetime "updated_at",        null: false
+    t.integer  "price"
+    t.integer  "stock"
+    t.integer  "vendingmachine_id"
   end
 
-  create_table "vendingmachine", id: false, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=latin1" do |t|
-    t.integer "id"
-    t.string  "place",     limit: 30
-    t.integer "productid"
-    t.integer "stock"
+  create_table "vendingmachines", force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=latin1" do |t|
+    t.string   "place"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end
