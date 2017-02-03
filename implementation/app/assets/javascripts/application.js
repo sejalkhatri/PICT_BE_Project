@@ -14,3 +14,36 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+var result = 0;//global variable
+function addFunction1() {
+    var e = document.getElementById("selectid1");
+    var strUser = e.options[e.selectedIndex].value;
+    result += strUser;
+}
+
+function addFunction2() {
+    var e = document.getElementById("selectid2");
+    var strUser = e.options[e.selectedIndex].value;
+    result += strUser;
+}
+
+
+function addFunction3() {
+    var e = document.getElementById("selectid3");
+    var strUser = e.options[e.selectedIndex].value;
+    result += strUser;
+}
+
+
+function addFunction4() {
+    var e = document.getElementById("selectid4");
+    var strUser = e.options[e.selectedIndex].value;
+    result += strUser;
+}
+
+function addFunction5() {
+    var e = document.getElementById("selectid1");
+    var strUser = e.options[e.selectedIndex].value;
+    result += strUser;
+    console.log(result);
+}

@@ -6,6 +6,43 @@
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
+  <script>
+  var result = 0;//global variable
+  function addFunction1() {
+      var e = document.getElementById("selectid1");
+      var strUser = e.options[e.selectedIndex].text;
+      result += parseInt(strUser);
+      console.log(result);
+  }
+
+  function addFunction2() {
+      var e = document.getElementById("selectid2");
+      var strUser = e.options[e.selectedIndex].value;
+      result += strUser;
+  }
+
+
+  function addFunction3() {
+      var e = document.getElementById("selectid3");
+      var strUser = e.options[e.selectedIndex].value;
+      result += strUser;
+  }
+
+
+  function addFunction4() {
+      var e = document.getElementById("selectid4");
+      var strUser = e.options[e.selectedIndex].value;
+      result += strUser;
+  }
+
+  function addFunction5() {
+      var e = document.getElementById("selectid1");
+      var strUser = e.options[e.selectedIndex].value;
+      result += strUser;
+      console.log(result);
+  }
+
+  </script>
 
   <body>
     <h4>Product Catalog</h4>
@@ -17,24 +54,26 @@
         <td>Quantity</td>
         <td>Add to Cart</td>
       </tr>
+      <% $i2 = 0%>
       <% @product.each do |p| %>
         <tr>
           <td><%=p.name %></td>
           <td><%=p.price%></td>
           <td><%=p.stock%></td>
           <td>
-            <select>
-              <% $i =0%>
-              <% until $i > p.stock do %>
-                <option value= "<%= $i %>"> <%= $i %></option>
-                <% $i +=1 %>
-              <%end%>
-            </select>
+            <% $i =0 %>
+              <select id ="selectid1">
+                <% until $i > p.stock do %>
+                    <option value= "<% $i %>"> <%= $i %></option>
+                  <% $i +=1 %>
+                <%end%>
+              </select>
           </td>
           <td>
-            <button> Add </button>
+            <button onclick="addFunction1()"> Add </button>
           </td>
         </tr>
+        <% $i2 += 1%>
       <% end %>
     </table>
   </body>
