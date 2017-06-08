@@ -5,19 +5,29 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+#
+# Product.destroy_all
+# Vendingmachine.destroy_all
+# Vendingmachine.create!(id: 1,
+#                         place: 'Katraj Dairy')
 
-Product.destroy_all
-Vendingmachine.destroy_all
-Vendingmachine.create!(id: 1,
-                        place: 'Katraj Dairy')
+Product.delete_all
+Product.create! id: 1, name: "Banana", price: 0.49, active: true
+Product.create! id: 2, name: "Apple", price: 0.29, active: true
+Product.create! id: 3, name: "Carton of Strawberries", price: 1.99, active: true
 
-
-10.times do |index|
-  Product.create!(id: index,
-                  name: "Type#{index}",
-                  price: index,
-                  stock: index+1,
-                  vendingmachine_id: 1)
-end
-
-p "Created #{Product.count} products"
+OrderStatus.delete_all
+OrderStatus.create! id: 1, name: "In Progress"
+OrderStatus.create! id: 2, name: "Placed"
+OrderStatus.create! id: 3, name: "Shipped"
+OrderStatus.create! id: 4, name: "Cancelled"
+#
+# 10.times do |index|
+#   Product.create!(id: index,
+#                   name: "Type#{index}",
+#                   price: index,
+#                   stock: index+1,
+#                   vendingmachine_id: 1)
+# end
+#
+# p "Created #{Product.count} products"

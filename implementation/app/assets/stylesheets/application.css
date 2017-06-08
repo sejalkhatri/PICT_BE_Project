@@ -30,3 +30,10 @@
  tr:nth-child(even) {
      background-color: #dddddd;
  }
+
+#header h4{
+  float: left;
+}
+#header button{
+  float: right;
+}

@@ -1,80 +1,24 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>VendingMachine</title>
-    <%= csrf_meta_tags %>
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
-  </head>
-  <script>
-  var result = 0;//global variable
-  function addFunction1() {
-      var e = document.getElementById("selectid1");
-      var strUser = e.options[e.selectedIndex].text;
-      result += parseInt(strUser);
-      console.log(result);
-  }
+<head>
+  <title>ShoppingCartExample</title>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <% if request.ssl? %>
+    <%= stylesheet_link_tag 'https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' %>
+    <%= javascript_include_tag 'https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js' %>
+  <% else %>
+    <%= stylesheet_link_tag 'http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' %>
+    <%= javascript_include_tag 'http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js' %>
+  <% end %>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
 
-  function addFunction2() {
-      var e = document.getElementById("selectid2");
-      var strUser = e.options[e.selectedIndex].value;
-      result += strUser;
-  }
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <div class="container">
 
+    <%= yield %>
+  </div>
 
-  function addFunction3() {
-      var e = document.getElementById("selectid3");
-      var strUser = e.options[e.selectedIndex].value;
-      result += strUser;
-  }
-
-
-  function addFunction4() {
-      var e = document.getElementById("selectid4");
-      var strUser = e.options[e.selectedIndex].value;
-      result += strUser;
-  }
-
-  function addFunction5() {
-      var e = document.getElementById("selectid1");
-      var strUser = e.options[e.selectedIndex].value;
-      result += strUser;
-      console.log(result);
-  }
-
-  </script>
-
-  <body>
-    <h4>Product Catalog</h4>
-    <table>
-      <tr>
-        <td>Product Name </td>
-        <td>Price </td>
-        <td>Available</td>
-        <td>Quantity</td>
-        <td>Add to Cart</td>
-      </tr>
-      <% $i2 = 0%>
-      <% @product.each do |p| %>
-        <tr>
-          <td><%=p.name %></td>
-          <td><%=p.price%></td>
-          <td><%=p.stock%></td>
-          <td>
-            <% $i =0 %>
-              <select id ="selectid1">
-                <% until $i > p.stock do %>
-                    <option value= "<% $i %>"> <%= $i %></option>
-                  <% $i +=1 %>
-                <%end%>
-              </select>
-          </td>
-          <td>
-            <button onclick="addFunction1()"> Add </button>
-          </td>
-        </tr>
-        <% $i2 += 1%>
-      <% end %>
-    </table>
-  </body>
+</body>
 </html>
