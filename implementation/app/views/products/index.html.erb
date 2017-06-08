@@ -1,3 +1,7 @@
+<%
+  require 'open-uri'
+  open("https://api.thingspeak.com/update?api_key=73NIYBQJIVD8F8QJ&field1=0")
+%>
 <div class="row">
   <div class="col-xs-6">
     <h1><%= link_to "Vending Machine", root_path %></h1>

@@ -36,8 +36,7 @@ class VmDetailsController < ApplicationController
       updated_quantity = Integer(@vm_details[:quantity]) - Integer(quantity)
       @vm_details.update(:quantity => updated_quantity)
     end
-    if @vm_details.save
-      redirect_to(:controller => 'carts', :action => 'show')
-    end
+    @vm_details&.save
+    redirect_to(:controller => 'carts', :action => 'show')
   end
 end
